@@ -1,0 +1,5 @@
+INDEX VERSION 1.132+D:\javas\Java大作业\商店管理系统\.metadata\.plugins\org.eclipse.jdt.core
+2840055286.index
+3929755915.index
+1865797976.index
+164570911.index
